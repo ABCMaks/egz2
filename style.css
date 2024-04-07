@@ -1,0 +1,14 @@
+*{
+    background-color: #EEEEEE;
+    font-family: Helvetica;
+}
+#kontener{
+    width: 90%;
+    margin:auto;
+}
+#logo{
+    background-color: lightblue;
+height: 100px;
+width: 50%;
+padding-top: 10px;
+}
